@@ -2,7 +2,7 @@
 	"name": "webchemistry/mailgun-mailer",
 	"require": {
 		"php": ">=7.3",
-		"mailgun/mailgun-php": "~3.0.0"
+		"mailgun/mailgun-php": "^3.0.0"
 	},
 	"autoload": {
 		"psr-4": {
